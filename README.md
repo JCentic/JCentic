@@ -50,7 +50,7 @@ ojt:       doesn't count. training arc, not endgame.
 </div>
 
 **Frontend** — Next.js · Nuxt.js · Vue · JavaScript · HTML · CSS  
-**Backend** — FastAPI · Python · SQLAlchemy · Laravel   
+**Backend** — FastAPI · Python · SQLAlchemy · PHP · Laravel   
 **Database & Deploy** — PostgreSQL · MySQL · Neon DB · Vercel · Render  
 **Capstone** — Godot (game + cloud integration)  
 **Tools** — Git · GitHub · VS Code · Free AI tools (the whole point)
