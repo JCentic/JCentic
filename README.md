@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+JCentic;More+Tabs+Open+Than+Code+Written;3rd+Year+IT+Student+%7C+21+y%2Fo;Building+Real+Systems+With+Free+AI+Tools;Until+I+Land+a+Developer+Job)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+JCentic;Reading+More+Than+Typing)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,25 +26,28 @@ ojt:       doesn't count. training arc, not endgame.
 
 <div align="center">
 
-<table>
+<table border="0" cellspacing="0" cellpadding="10">
   <tr>
-    <td align="center" width="140px"><b>Frontend</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,vue" />
-      <img src="https://skillicons.dev/icons?i=js,html,css" />
-    </td>
-    <td align="center" width="140px"><b>Backend</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=fastapi,python" />
-      <img src="https://skillicons.dev/icons?i=php,laravel" />
-    </td>
-    <td align="center" width="140px"><b>Database & Deploy</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=postgres,vercel" />
-    </td>
-    <td align="center" width="140px"><b>Tools</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-    </td>
-    <td align="center" width="140px"><b>Capstone</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=godot,cpp" />
-    </td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nuxtjs" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vue" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=php" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=laravel" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=godot" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" /></td>
   </tr>
 </table>
 
