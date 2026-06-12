@@ -55,8 +55,6 @@ ojt:       doesn't count. training arc, not endgame.
 **Capstone** — Godot (game + cloud integration)  
 **Tools** — Git · GitHub · VS Code · Free AI tools (the whole point)
 
-> Every tool in this stack is free or student-accessible. That's not a limitation — it's the constraint that makes it worth documenting.
-
 ---
 
 ### What's Here
