@@ -6,7 +6,7 @@
 
 ---
 
-3rd-year IT student. I firmly believe the best way to master programming isn't by watching syntax videos, but by architecting complex systems from the ground up and fighting the compiler. Documenting my entire chaotic journey of building production-ready projects in public until I land an actual developer job.
+3rd-year IT student. I firmly believe the best way to master programming isn't by watching syntax videos, but by architecting complex systems from the ground up and fighting the compiler. I plan to document my entire chaotic journey of building production-ready projects in public until I land an actual developer job.
 
 Architected manually. Executed agentically. I leverage AI for rapid execution but keep a tight grip on the wheel. My workflow balances strict Markdown-driven prompts with heavy manual code reviews and deep architectural control.
 
