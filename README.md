@@ -1,14 +1,12 @@
 <div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+JCentic;Reading+More+Than+Typing)](https://git.io/typing-svg)
-
 </div>
 
 ---
 
 I'm a 3rd-year IT student documenting my journey of learning **agentic coding** and building real software systems with free AI tools — publicly, under the brand **JCentic** — until I land a developer job.
 
-I practice agentic coding: AI does the building, I do the thinking, prompting, reviewing, and the panicked debugging at 2am. The whole process gets documented — planning, architecture, mistakes, refactors, and the occasional "oh. OH." moment.
+Architected manually. Executed agentically. I leverage AI for rapid execution but keep a tight grip on the wheel. My workflow balances strict Markdown-driven prompts with heavy manual code reviews and deep architectural control.
 
 I used to be in a complicated relationship with Laravel and XAMPP. We've since moved on. It's better for both of us.
 
