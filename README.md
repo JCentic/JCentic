@@ -13,8 +13,8 @@ Architected manually. Executed agentically. I leverage AI for rapid execution bu
 I used to be in a complicated relationship with Laravel and XAMPP. We've since moved on. It's better for both of us.
 
 ```yaml
-status:    building in public
-challenge: ongoing — ends when a company pays me to write code
+status:    Hunting a ghost error in an empty line space.
+challenge: ongoing — ends when a company pays me to write code.
 ojt:       doesn't count. training arc, not endgame.
 ```
 
