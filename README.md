@@ -12,8 +12,6 @@ Architected manually. Executed agentically. I leverage AI for rapid execution bu
 
 I used to be in a complicated relationship with Laravel and XAMPP. We've since moved on. It's better for both of us.
 
-Currently finishing a capstone project — a Godot game with full cloud integration, Educator & Admin dashboard, and just enough backend to keep me humble.
-
 ```yaml
 status:    building in public
 challenge: ongoing — ends when a company pays me to write code
