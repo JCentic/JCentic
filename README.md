@@ -22,10 +22,8 @@ ojt:       doesn't count. training arc, not endgame.
 
 ---
 
-### Stack
-
 <div align="center">
-
+<h1>Stack</h1>
 <table border="0" cellspacing="0" cellpadding="10">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" /></td>
