@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+JCentic;3rd+Year+IT+Student+%7C+21+y%2Fo;Building+Real+Systems+With+Free+AI+Tools;Until+I+Land+a+Developer+Job)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+JCentic;More+Tabs+Open+Than+Code+Written;3rd+Year+IT+Student+%7C+21+y%2Fo;Building+Real+Systems+With+Free+AI+Tools;Until+I+Land+a+Developer+Job)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,11 +26,27 @@ ojt:       doesn't count. training arc, not endgame.
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,nuxtjs,vue,js,html,css&theme=dark)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=fastapi,python,php,laravel,postgres,vercel&theme=dark)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=github,vscode,godot,git)](https://skillicons.dev)
+<table>
+  <tr>
+    <td align="center" width="140px"><b>Frontend</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,vue" />
+      <img src="https://skillicons.dev/icons?i=js,html,css" />
+    </td>
+    <td align="center" width="140px"><b>Backend</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=fastapi,python" />
+      <img src="https://skillicons.dev/icons?i=php,laravel" />
+    </td>
+    <td align="center" width="140px"><b>Database & Deploy</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=postgres,vercel" />
+    </td>
+    <td align="center" width="140px"><b>Tools</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+    </td>
+    <td align="center" width="140px"><b>Capstone</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=godot,cpp" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -74,6 +90,6 @@ If something looks half-finished, I was probably mid-refactor. Or mid-debug. Sam
 
 <div align="center">
 
-*"If you spotted a mistake or a better way to do things, let me know — see you in the next one."*
+*"If you spotted a mistake or a better way to do things, let me know — I would like to improve more."*
 
 </div>
