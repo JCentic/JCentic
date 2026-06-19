@@ -31,7 +31,6 @@ ojt:       doesn't count. training arc, not endgame.
     <td align="center"><img src="https://skillicons.dev/icons?i=css" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=python" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=php" /></td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgres" /></td>
