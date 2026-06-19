@@ -24,7 +24,6 @@ ojt:       doesn't count. training arc, not endgame.
 <h1>Stack</h1>
 <table border="0" cellspacing="0" cellpadding="10">
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nuxtjs" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vue" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=js" /></td>
@@ -35,22 +34,19 @@ ojt:       doesn't count. training arc, not endgame.
     <td align="center"><img src="https://skillicons.dev/icons?i=php" /></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=laravel" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgres" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vercel" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vscode" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=godot" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql" /></td>
   </tr>
 </table>
 
 </div>
 
-**Frontend** — Next.js · Nuxt.js · Vue · JavaScript · HTML · CSS  
-**Backend** — FastAPI · Python · SQLAlchemy · PHP · Laravel   
+**Frontend** — Nuxt.js · Vue · JavaScript · HTML · CSS  
+**Backend** — FastAPI · Python · SQLAlchemy · PHP 
 **Database & Deploy** — PostgreSQL · MySQL · Neon DB · Vercel · Render  
 **Capstone** — Godot (game + cloud integration)  
 **Tools** — Git · GitHub · VS Code · Free AI tools (the whole point)
